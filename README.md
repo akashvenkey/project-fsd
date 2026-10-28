@@ -1,6 +1,15 @@
 ﻿<div align="center">
 
+<a href="https://github.com/akashvenkey/project-fsd">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=881337,BE123C,FB7185&height=220&section=header&text=Full-Stack%20Web%20Suites&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Clinical%20Hospital%20Systems%2C%20Media%20Platforms%20%26%20Secure%20Portals&descSize=16&descAlignY=60&descAlign=50" alt="Full-Stack Web Suites Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/project-fsd](https://github.com/akashvenkey/project-fsd)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2Fproject-fsd-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/project-fsd)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/project-fsd.git)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -158,6 +167,15 @@ Pull requests, design refinements, and issue reports are welcomed. If you find t
 
 <div align="center">
 
+<a href="https://github.com/akashvenkey/project-fsd">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=881337,BE123C,FB7185&height=100&section=footer" alt="Footer Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/project-fsd](https://github.com/akashvenkey/project-fsd)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2Fproject-fsd-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/project-fsd)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/project-fsd.git)
 
 </div>
