@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>City Hospital Clinical Portal | FSD Suite</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="logo">🏥 City Hospital</div>
+        <nav>
+            <a href="#services">Departments</a>
+            <a href="#doctors">Physicians</a>
+            <a href="#booking">Book Appointment</a>
+        </nav>
+    </header>
+    <main class="container">
+        <section id="services" class="card">
+            <h2>Clinical Departments</h2>
+            <p>Specialized patient care in Cardiology, Neurology, Pediatrics, and Orthopedics.</p>
+        </section>
+        <section id="booking" class="card">
+            <h2>Patient Appointment Scheduling</h2>
+            <form id="appointmentForm">
+                <input type="text" id="patientName" placeholder="Full Patient Name" required>
+                <select id="department" required>
+                    <option value="">Select Department</option>
+                    <option value="Cardiology">Cardiology</option>
+                    <option value="Neurology">Neurology</option>
+                    <option value="Pediatrics">Pediatrics</option>
+                </select>
+                <input type="date" id="appointmentDate" required>
+                <button type="submit" class="btn">Confirm Consultation</button>
+            </form>
+            <div id="bookingConfirmation" class="hidden"></div>
+        </section>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
