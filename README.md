@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <a href="https://github.com/akashvenkey/project-fsd">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=881337,BE123C,FB7185&height=220&section=header&text=Full-Stack%20Web%20Suites&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Clinical%20Hospital%20Systems%2C%20Media%20Platforms%20%26%20Secure%20Portals&descSize=16&descAlignY=60&descAlign=50" alt="Full-Stack Web Suites Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:881337,50:BE123C,100:FB7185&height=220&section=header&text=Full-Stack%20Web%20Suites&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Clinical%20Hospital%20Systems%2C%20Media%20Platforms%20and%20Secure%20Portals&descSize=16&descAlignY=60&descAlign=50" alt="Full-Stack Web Suites Banner" width="100%" />
 </a>
 
 
@@ -168,7 +168,7 @@ Pull requests, design refinements, and issue reports are welcomed. If you find t
 <div align="center">
 
 <a href="https://github.com/akashvenkey/project-fsd">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=881337,BE123C,FB7185&height=100&section=footer" alt="Footer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:881337,50:BE123C,100:FB7185&height=100&section=footer" alt="Footer Banner" width="100%" />
 </a>
 
 
